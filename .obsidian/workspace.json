@@ -246,6 +246,8 @@
   },
   "active": "3231ccd5465a0cef",
   "lastOpenFiles": [
+    "CreditCard/全体.md",
+    "日報/202601/04.md",
     "確認テスト１/register.blade.php.md",
     "確認テスト１/login.blade.php.md",
     "確認テスト１/FortifyServiceProvider.php.md",
@@ -270,8 +272,6 @@
     "stripe/webhook/2 Checkout作成（決済開始）.md",
     "stripe/StripeClient.md",
     "stripe/stripe決済の流れ.md",
-    "stripe/stripe各キーの役割.md",
-    "環境構築/volumeマウント/volumeマウント概要.md",
     "日報/202601",
     "日報",
     "環境構築/volumeマウント",
