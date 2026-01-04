@@ -66,23 +66,9 @@
               "icon": "lucide-file",
               "title": "04"
             }
-          },
-          {
-            "id": "56f1248876e5d8f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "環境構築/docker-compose.yml/nginxサービスのポイント.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "nginxサービスのポイント"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,8 +244,23 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "3b19b4f8ee528d83",
+  "active": "3231ccd5465a0cef",
   "lastOpenFiles": [
+    "確認テスト１/register.blade.php.md",
+    "確認テスト１/login.blade.php.md",
+    "確認テスト１/FortifyServiceProvider.php.md",
+    "確認テスト１/AdminController.php.md",
+    "確認テスト１/修正済みコード/web.php.md",
+    "確認テスト１/修正済みコード/UserLoginRequest.md",
+    "確認テスト１/修正済みコード/RegisterUserRequest.md",
+    "確認テスト１/修正済みコード/registercontroller.php.md",
+    "確認テスト１/修正済みコード/CreateNewUser.php.md",
+    "確認テスト１/お問い合わせフォーム画面/web.php.md",
+    "確認テスト１/お問い合わせフォーム画面/create_categories_table.php.md",
+    "確認テスト１/お問い合わせフォーム画面/ContactFactory.php.md",
+    "確認テスト１/お問い合わせフォーム画面/contact.blade.php.md",
+    "確認テスト１/お問い合わせフォーム画面/CategoriesTableSeeder.php.md",
+    "環境構築/docker-compose.yml/nginxサービスのポイント.md",
     "環境構築/docker-compose.yml/external true.md",
     "環境構築/docker-compose.yml/ex2.md",
     "環境構築/docker-compose.yml/ex1.md",
@@ -271,24 +272,9 @@
     "stripe/stripe決済の流れ.md",
     "stripe/stripe各キーの役割.md",
     "環境構築/volumeマウント/volumeマウント概要.md",
-    "日報/202601/04.md",
     "日報/202601",
     "日報",
     "環境構築/volumeマウント",
-    "環境構築/docker-compose.yml/docker-compose.yml ルール.md",
-    "環境構築/composer.md",
-    "環境構築/ローカルで動かす（Dockerなし）.md",
-    "REST/RESTとは.md",
-    "認証（Auth , Fortify）/トークン認証とセッション認証.md",
-    "git/conflict解消.md",
-    "git/トラブル対処/作業前にbranchを切り忘れた(mainで作業してしまった).md",
-    "git/変更中にブランチ切替したい.md",
-    "git/mainブランチとファイルを同期.md",
-    "git/Git Command List.md",
-    "git/チームでのgit運用/3. PR.md",
-    "git/チームでのgit運用/1. チーム開発のGitの流れ.md",
-    "git/チームでのgit運用/2. ブランチを切ってpushする.md",
-    "認証（Auth , Fortify）/セキュリティ/CSRF.md",
     "REST",
     "認証（Auth , Fortify）/セキュリティ",
     "環境構築/docker-compose.yml",
