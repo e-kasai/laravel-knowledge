@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "b0d2326f5ac27376",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ca453257186d36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3fc1f5990886c84",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "認証（Auth , Fortify）/トークン認証とセッション認証.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "トークン認証とセッション認証"
+            }
+          },
+          {
+            "id": "ce71a5732aa4fdea",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "環境構築/volumeマウント/volumeマウント概要.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "volumeマウント概要"
+            }
+          },
+          {
+            "id": "af25d5446ef71980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "環境構築/docker-compose.yml/ex2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ex2"
+            }
+          },
+          {
+            "id": "3231ccd5465a0cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日報/202601/04.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "04"
+            }
+          },
+          {
+            "id": "56f1248876e5d8f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "環境構築/docker-compose.yml/nginxサービスのポイント.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "nginxサービスのポイント"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2940d4fd86b53f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "92196cf8d6b518b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b19b4f8ee528d83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "268441e13a39e1b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "89040da430580a9c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "9caf65d7dbfd6ca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aff0241fe4f655a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec62ef5fc5cfac08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "単体テスト/実行優先順位.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "実行優先順位へのバックリンク"
+            }
+          },
+          {
+            "id": "2c4cc885292bb112",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Carbon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Carbonからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "fe87d73d51c28cbb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Carbon.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Carbonのアウトライン"
+            }
+          },
+          {
+            "id": "28f9061c109f29a5",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "単体テスト/実行優先順位.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "9404f2255d1caccc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "162aa430d730fa02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "環境構築/docker-compose.yml/nginxサービスのポイント.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "nginxサービスのポイント"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 762.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "excel:Create Excel File": false
+    }
+  },
+  "active": "3b19b4f8ee528d83",
+  "lastOpenFiles": [
+    "環境構築/docker-compose.yml/external true.md",
+    "環境構築/docker-compose.yml/ex2.md",
+    "環境構築/docker-compose.yml/ex1.md",
+    "stripe/stripe画面遷移/1 stripe準備.md",
+    "git/提出用リポジトリにキレイな履歴でpushする手順.md",
+    "git/コマンド解説/git push -u.md",
+    "stripe/webhook/2 Checkout作成（決済開始）.md",
+    "stripe/StripeClient.md",
+    "stripe/stripe決済の流れ.md",
+    "stripe/stripe各キーの役割.md",
+    "環境構築/volumeマウント/volumeマウント概要.md",
+    "日報/202601/04.md",
+    "日報/202601",
+    "日報",
+    "環境構築/volumeマウント",
+    "環境構築/docker-compose.yml/docker-compose.yml ルール.md",
+    "環境構築/composer.md",
+    "環境構築/ローカルで動かす（Dockerなし）.md",
+    "REST/RESTとは.md",
+    "認証（Auth , Fortify）/トークン認証とセッション認証.md",
+    "git/conflict解消.md",
+    "git/トラブル対処/作業前にbranchを切り忘れた(mainで作業してしまった).md",
+    "git/変更中にブランチ切替したい.md",
+    "git/mainブランチとファイルを同期.md",
+    "git/Git Command List.md",
+    "git/チームでのgit運用/3. PR.md",
+    "git/チームでのgit運用/1. チーム開発のGitの流れ.md",
+    "git/チームでのgit運用/2. ブランチを切ってpushする.md",
+    "認証（Auth , Fortify）/セキュリティ/CSRF.md",
+    "REST",
+    "認証（Auth , Fortify）/セキュリティ",
+    "環境構築/docker-compose.yml",
+    "attachments/Pasted image 20251215165042.png",
+    "attachments/Pasted image 20251211145924.png",
+    "git/トラブル対処",
+    "attachments/Pasted image 20251211144425.png",
+    "attachments/Pasted image 20251211144346.png",
+    "attachments/Pasted image 20251211144215.png",
+    "git/チームでのgit運用",
+    "メソッド/データの読み込み",
+    "PHP",
+    "attachments/Pasted image 20250916113113.png",
+    "attachments/Pasted image 20250909151249.png",
+    "attachments/Pasted image 20250905082813.png",
+    "attachments/Pasted image 20250901145732.png",
+    "attachments/Pasted image 20251209173736.png",
+    "無題のファイル.canvas"
+  ]
+}

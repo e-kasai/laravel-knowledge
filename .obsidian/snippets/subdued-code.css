@@ -1,0 +1,51 @@
+
+```css
+/* フォントと間隔を読みやすく */
+.cm-line,
+.markdown-preview-section pre,
+.markdown-preview-section code {
+  font-family: ui-monospace, Menlo, Consolas, "Source Code Pro", monospace;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+/* 背景をほんのりオフホワイトに（ライトでも目に優しい） */
+.markdown-preview-section pre {
+  background: #f7f7f7;
+  padding: 0.65rem;
+  border-radius: 6px;
+  overflow: auto;
+}
+
+/* 彩度を落とした構文色：過度な原色を避ける */
+.cm-keyword { color: #2f4f6f; font-weight: 600; }        /* 落ち着いたネイビーブルー */
+.cm-variable { color: #4f4f4f; }                        /* 変数はややグレー寄り */
+.cm-string { color: #6a7f4f; }                          /* 柔らかなグリーン */
+.cm-number { color: #5a5f8f; }                          /* 控えめなブルー */
+.cm-comment { color: #7a7a7a; font-style: italic; }      /* グレーで傍線感 */
+.cm-type { color: #556677; }                            /* 型名やクラス名 */
+.cm-builtin { color: #556677; }                         /* 組み込みも落ち着いて */
+.cm-operator { color: #333; }                           /* 演算子は締め色 */
+.cm-tag { color: #8f5f5f; }                              /* HTMLタグなど控えめに */
+.cm-attribute { color: #4f5f7f; }                       /* 属性名 */
+.cm-property { color: #4f5f7f; }                        /* プロパティ */
+.cm-definition { text-decoration: underline; }           /* 定義は下線で目立たせる */
+
+/* 強調は色より太さで（過度な色変化を減らす） */
+.cm-keyword, .cm-atom, .cm-number {
+  font-weight: 600;
+}
+
+/* 選択時の背景を柔らかく */
+.cm-content ::selection,
+.cm-line ::selection {
+  background: rgba(180, 200, 230, 0.35);
+}
+
+/* エラー表示など必要な注意は枠や背景で補う（色を乱用しない） */
+.markdown-preview-section .register-form__error {
+  background: rgba(255, 230, 230, 0.6);
+  border-left: 3px solid #d9534f;
+  padding: 3px 6px;
+  border-radius: 4px;
+}

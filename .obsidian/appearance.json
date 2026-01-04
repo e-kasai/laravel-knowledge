@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "rainbow-indent"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "accentColor": "#93c2b1",
+  "textFontFamily": "Meiryo UI",
+  "monospaceFontFamily": "PlemolJP,Meiryo UI",
+  "interfaceFontFamily": "Meiryo UI,PlemolJP",
+  "baseFontSizeAction": true
+}

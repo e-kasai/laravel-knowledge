@@ -1,0 +1,47 @@
+/* rainbow-indent.css */
+.cm-indent::nth-of-type(n) {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  margin-left: -1px;
+  padding-left: 1px;
+  background: linear-gradient(
+    to bottom,
+    #e06c75,
+    #e5c07b,
+    #98c379,
+    #56b6c2,
+    #61afef,
+    #c678dd
+  );
+  background-size: 100% 600%;
+  background-repeat: no-repeat;
+  opacity: 0.6;
+}
+
+.cm-indent:nth-of-type(1) {
+  border-left: 3px solid #e06c75;
+}
+.cm-indent:nth-of-type(2) {
+  border-left: 3px solid #e5c07b;
+}
+.cm-indent:nth-of-type(3) {
+  border-left: 3px solid #98c379;
+}
+.cm-indent:nth-of-type(4) {
+  border-left: 3px solid #56b6c2;
+}
+.cm-indent:nth-of-type(5) {
+  border-left: 3px solid #61afef;
+}
+.cm-indent:nth-of-type(6) {
+  border-left: 3px solid #c678dd;
+}
+.cm-indent:nth-of-type(7) {
+  border-left: 3px solid #377ee9;
+}
+.cm-indent:nth-of-type(8) {
+  border-left: 3px solid #ed45b8;
+}
