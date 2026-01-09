@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日報/202601/04.md",
+                "file": "基礎/演算子・empty・isset (nullの扱い）.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04"
+              "title": "演算子・empty・isset (nullの扱い）"
             }
           }
         ],
@@ -246,8 +246,10 @@
   },
   "active": "3231ccd5465a0cef",
   "lastOpenFiles": [
-    "CreditCard/全体.md",
     "日報/202601/04.md",
+    "基礎/演算子・empty・isset (nullの扱い）.md",
+    "基礎",
+    "CreditCard/全体.md",
     "確認テスト１/register.blade.php.md",
     "確認テスト１/login.blade.php.md",
     "確認テスト１/FortifyServiceProvider.php.md",
@@ -271,7 +273,6 @@
     "git/コマンド解説/git push -u.md",
     "stripe/webhook/2 Checkout作成（決済開始）.md",
     "stripe/StripeClient.md",
-    "stripe/stripe決済の流れ.md",
     "日報/202601",
     "日報",
     "環境構築/volumeマウント",
@@ -286,7 +287,6 @@
     "attachments/Pasted image 20251211144215.png",
     "git/チームでのgit運用",
     "メソッド/データの読み込み",
-    "PHP",
     "attachments/Pasted image 20250916113113.png",
     "attachments/Pasted image 20250909151249.png",
     "attachments/Pasted image 20250905082813.png",
